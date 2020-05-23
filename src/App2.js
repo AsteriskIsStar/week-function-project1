@@ -51,6 +51,7 @@ function App2(){
     // console.log(music)
     // render()
     // for if
+    
     const html = music.map((m)=>
         <tr>
             <td>{m.rank}</td>
